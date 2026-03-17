@@ -1,17 +1,36 @@
 # 👋 Hi, I'm AST
 
-💻 Backend Developer | Travel Tech
-🚀 Building flight booking systems & APIs
+🚀 Backend Developer | Travel Tech  
+✈️ Building Flight Booking Systems & APIs  
 
-## 🔧 Tech Stack
-- PHP / NodeJS
-- MySQL / Redis
-- REST API / SOAP
+---
+
+## 🔥 About Me
+- 💼 Working on flight booking & fare systems  
+- 🔌 Experience with airline APIs (Vietjet, Vietnam Airlines)  
+- ⚡ Focus on performance & pricing logic  
+
+---
+
+## 🛠 Tech Stack
+![NodeJS](https://img.shields.io/badge/NodeJS-green)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![Redis](https://img.shields.io/badge/Redis-red)
+
+---
 
 ## 📌 Featured Projects
-- ✈️ Flight Booking System
-- 🔍 Fare Search Engine
+- ✈️ Flight Booking API  
+- 🔍 Fare Search Engine  
+- 💰 Pricing & Ticketing System  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
 
 ## 📫 Contact
-- Email: duykhanh@asttravel.com.vn# astdev
-Development
+- Email: duykhanh@asttravel.com.vn
